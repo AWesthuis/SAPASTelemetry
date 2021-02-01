@@ -6,7 +6,7 @@ location = "West Europe"
 #Name of the LogicApp to be used for data collection from SAP
 logicapp-datacoll = "logicapp-datacoll1"
 #SAP System ID for which autoscaling is configured. 
-sapsid = "TST"
+sapsid = "A4H"
 #Log analytics workspace to store SAP performance data. This workspace will be created by the template
 loganalyticsworkspace = "sapmonloganalytics03" 
 #Data collection interval in minutes. This will be used by the recurrence trigger of data collection logic app
